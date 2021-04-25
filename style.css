@@ -1,0 +1,123 @@
+
+.header{
+    text-align: center;
+    padding: 20px 5px;
+}
+.header--logo{
+    padding-bottom:10px ;
+    width: 100px !important;
+}
+.header img{
+    width: 30px;
+}
+.navbar{
+    background-color: rgb(212, 212, 212);
+    color: white;
+    font-size: 1.2em;
+    font-weight: 300;
+}
+.nav-link{
+    color: white;
+    font-size: 0.9em;
+    font-weight: 300;
+}
+.nav-link:hover{
+    color: rgb(125, 142, 182) !important;
+}
+.header-1{
+    background-image: url(img/header_img.gif);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+}
+.promo{
+    padding: 20px;
+    text-align: center;
+}
+.opa{
+    width: 100px;
+    height: 30px;
+}
+.lol{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+
+    margin: 100px;
+}
+.ani{ 
+    padding-left: 170px;
+    width: 900px;
+    height: 400px;
+}
+.ani2{ 
+    padding-top: 100px;
+    padding-left: 900px;
+    width: 1700px;
+    height: 400px;
+}
+.text{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+}
+.site{
+    background-color: rgb(48, 48, 48);
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+.textin{
+    padding-left: 100px;
+    padding-top: 10px;
+}
+body{
+    background-image: url(img/fon.jpg);
+}
+.imgin{
+    height: 150px;
+    width: 300px;
+    padding-left: 50px;
+    cursor: pointer;
+}
+.textin2{
+    padding-left: 500px;
+}
+.nonotext{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+    color: white;
+}
+.nonotext2{
+    padding-left: 300px;
+    padding-top: 10px;
+    color: white;
+}
+.gifka{
+    padding-left: 100px;
+    padding-top: 10px;
+}
